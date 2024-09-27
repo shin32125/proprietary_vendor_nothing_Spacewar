@@ -1555,8 +1555,8 @@ PRODUCT_PACKAGES += \
     dpmapi \
     qcrilhook \
     init.qti.media \
-    android.hardware.gnss@2.1-service-qti \
-    c2_manifest_vendor \
-    manifest_android.hardware.drm@1.3-service.widevine \
-    vendor.qti.gnss@4.2-service \
-    vendor.qti.hardware.limits@1.0-service
+    android.hardware.gnss@2.1-service-qti.xml \
+    c2_manifest_vendor.xml \
+    manifest_android.hardware.drm@1.3-service.widevine.xml \
+    vendor.qti.gnss@4.2-service.xml \
+    vendor.qti.hardware.limits@1.0-service.xml
